@@ -1,5 +1,6 @@
 # OSRS Account Maker
 
+BUFU
 Tool to create accounts for Oldschool Runescape:
 
     - Supports Proxy connections for individual accounts, or a Parent Proxy for all the creation process
